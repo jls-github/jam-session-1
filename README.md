@@ -43,6 +43,21 @@
 - Style page (Friday)
 - Test and polish (Saturday)
 
+
+# Tuesday
+- Need Library of quotes (API) (Tuesday)
+    - Find an API
+    - Play around with the API
+    - Create fetch functions
+        - .thens
+            - Convert to json
+        - .catch
+
+- fetch function - getQuotes()
+    - url: https://sillyquoteapi.com
+    - headers: blahblahblah
+    - res.json() 
+
     
 
 
